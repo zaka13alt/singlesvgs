@@ -1,0 +1,14 @@
+<svg xmlns="http:/www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="100%" height="100%">
+  <foreignObject x="0" y="0" width="1920" height="1080">
+    <iframe 
+      xmlns="http://www.w3.org/1999/xhtml" 
+      width="1920" 
+      height="1080" 
+      src="https://tglsc.c00lkiddtech.live" 
+      frameborder="0" 
+      sandbox="allow-downloads allow-forms allow-modals allow-orientation-lock allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-presentation allow-same-origin allow-scripts allow-top-navigation allow-top-navigation-by-user-activation"
+      allow="accelerometer; ambient-light-sensor; autoplay; battery; camera; display-capture; document-domain; encrypted-media; execution-while-not-rendered; execution-while-out-of-viewport; fullscreen; geolocation; gyroscope; layout-animations; legacy-image-formats; magnetometer; microphone; midi; navigation-override; oculus; oversized-images; payment; picture-in-picture; publickey-credentials-get; speaker-selection; sync-xhr; unoptimized-images; unsized-media; usb; vr; screen-wake-lock; web-share; xr-spatial-tracking"
+      allowfullscreen="true">
+    </iframe >
+  </foreignObject>
+</svg>
